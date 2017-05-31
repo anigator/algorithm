@@ -18,7 +18,7 @@ public class UniqueString {
 	}
 	
 	public static void main(String[] args) {
-		String str ="abcdefghijkla";
+		String str ="abcdefghijkl";
 		System.out.println(isUniqueChar(str));
 	}
 }
